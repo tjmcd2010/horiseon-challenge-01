@@ -25,7 +25,8 @@ THEN I find a concise, descriptive title
 ## Completed demonstration
 
 Screenshot of the completed page with alt text for the background image appearing
-![Completed Project Screenshot](images/horiseon-screenshot-with-alt.png)
+![Completed Project Screenshot](https://github.com/tjmcd2010/horiseon-challenge-01/blob/main/Images/horiseon-screenshot-with-alt.png)
+
 
 URL to the completed project
 
