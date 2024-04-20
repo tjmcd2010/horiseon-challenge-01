@@ -1,3 +1,5 @@
+
+ /*Univerisal css set across the entire page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -75,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+ /* The group on the right panel */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,6 +107,7 @@ p {
     max-width: 150px;
 }
 
+/*the group of features below the background image that are linked to in the header nav bar */
 .categories {
     margin-bottom: 20px;
     padding: 50px;
@@ -113,6 +117,7 @@ p {
     color: #ffffff;
 }
 
+/* gives the images in the categories class max height of 200 pixels. This helps with mobile responsiveness. */
 .categories img {
     max-height: 200px;
 }

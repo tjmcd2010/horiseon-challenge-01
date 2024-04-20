@@ -22,6 +22,16 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Completed demonstration
+
+Screenshot of the completed page with alt text for the background image appearing
+![Completed Project Screenshot](images/horiseon-screenshot-with-alt.png)
+
+URL to the completed project
+
+https://tjmcd2010.github.io/horiseon-challenge-01/
+
+
 ## Steps taken to complete the project
 
 - Created a new repository in Github, titled horiseon-challenge-1
