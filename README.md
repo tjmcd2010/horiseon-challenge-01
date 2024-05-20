@@ -24,8 +24,7 @@ THEN I find a concise, descriptive title
 
 ## Completed demonstration
 
-Screenshot of the completed page with alt text for the background image appearing
-![Completed Project Screenshot](https://github.com/tjmcd2010/horiseon-challenge-01/blob/main/Images/horiseon-screenshot-with-alt.png)
+
 
 
 URL to the completed project
@@ -37,7 +36,6 @@ https://tjmcd2010.github.io/horiseon-challenge-01/
 
 - Created a new repository in Github, titled horiseon-challenge-1
 - Added alt text to images, including adding a title to the hero image
-- cleaned up the css files to remove repetitive syntax
 - Updated the title to Horiseon Website
 - Tested using a Screen Reader Extenion on Chrome
 - Ensured all links were live
