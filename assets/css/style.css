@@ -48,7 +48,8 @@ a {
 
 p {
     font-size: 16px;
-    padding-bottom: 30px;
+    padding-bottom: 60px;
+    text-align: left;
 }
 /* styles the hero image on the page and gives an alt tag for the image */
 .hero {
@@ -94,6 +95,9 @@ article {
     background-color: #2589bd;
     margin-bottom: 32px;
     color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 article img {
     max-width: 150px;
